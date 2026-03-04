@@ -39,6 +39,7 @@ Total analyzed:
 
 <img width="989" height="519" alt="Dashboard png" src="https://github.com/user-attachments/assets/9acb8ab6-07ce-468a-96a1-77e31ad88374" />
 
+<img width="506" height="311" alt="Dashboard-%Ocupacion-png" src="https://github.com/user-attachments/assets/4800728b-f9be-4198-8ca3-7dc22f1a847b" />
 
 
 ## Insights
@@ -97,6 +98,8 @@ Totales analizados:
 ## Dashboard
 
 <img width="989" height="519" alt="Dashboard png" src="https://github.com/user-attachments/assets/8f183b1e-62bd-40e4-a2df-78bd0c243fc5" />
+
+<img width="506" height="311" alt="Dashboard-%Ocupacion-png" src="https://github.com/user-attachments/assets/4ab92457-290a-4572-98e4-422e9d454ecc" />
 
 
 ## Insights
