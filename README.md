@@ -96,7 +96,8 @@ Totales analizados:
 
 ## Dashboard
 
-Ejemplo de dashboard que visualiza los principales KPIs y tendencias operativas del hotel.
+<img width="989" height="519" alt="Dashboard png" src="https://github.com/user-attachments/assets/8f183b1e-62bd-40e4-a2df-78bd0c243fc5" />
+
 
 ## Insights
 
