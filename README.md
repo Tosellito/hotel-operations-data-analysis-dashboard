@@ -37,7 +37,9 @@ Total analyzed:
 
 ## Dashboard
 
-Example dashboard visualizing hotel KPIs and trends.
+<img width="989" height="519" alt="Dashboard png" src="https://github.com/user-attachments/assets/9acb8ab6-07ce-468a-96a1-77e31ad88374" />
+
+
 
 ## Insights
 
