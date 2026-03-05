@@ -46,10 +46,13 @@ Total analyzed:
 
 ## Insights
 
-- Most guests participated in breakfast service.
-- Occupancy varied significantly during the month.
-- Guest profile was mostly corporate travelers.
+-Most guests participated in the breakfast service. The low percentage of guests who skipped breakfast (10.40%) represents an opportunity to offer in-room breakfast at an extra cost, ensuring they don't miss the experience.
 
+-Corporate guests tend to check out early in the morning — breakfast should be fully set up and ready by 7AM, as the peak hour runs from 7AM to 8AM.
+
+-The guest profile was primarily corporate — attracting more families could be achieved by promoting discounts and Late Check-out options through a dedicated Family Plan.
+
+-Mondays generally show low occupancy — introducing discounted rates for Sunday-Monday stays could help drive bookings and increase revenue on low-income days.
 ## Author
 
 Matias Toselli  
@@ -108,10 +111,13 @@ Totales analizados:
 
 ## Insights
 
-- La mayoría de los huéspedes participó en el servicio de desayuno.
-- La ocupación varió significativamente durante el mes.
-- El perfil de huéspedes fue principalmente corporativo.
-- Los dias lunes por lo general poca ocupacion, personal reducido.
+- La mayoría de los huéspedes participó en el servicio de desayuno - El bajo porcentaje de huespedes que no desayuno (10.40%) Se les puede ofrecer desayuno a la habitacion con un coste extra para que no pierdan la experiencia del desayuno.
+  
+- El perfil Corporativo baja a primera hora - Dejar el desayuno lo mas preparado posible ya que de 7AM a 8AM es Hora pico.
+  
+- El perfil de huéspedes fue principalmente corporativo - Atraer mas familias, publicitando descuentos/Late Chek-out en Family Plan.
+  
+- Los dias lunes por lo general poca ocupacion - Podemos incluir tarifas con descuento los dias Domingo-Lunes para fomentar la ocupacion los dias de pocos ingresos.
 
 ## Autor
 
